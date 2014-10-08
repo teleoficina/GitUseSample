@@ -26,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+// JSO añadido por el menda lerenda...
+- (IBAction)clickTheButton:(id)sender {
+    NSLog(@"Joven, this is a Git tutorial, petardooo...");
+}
+
 @end

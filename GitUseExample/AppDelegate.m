@@ -12,6 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    NSLog(@"aplikasion diz fini lonching... juasjuas...");
     // Override point for customization after application launch.
     return YES;
 }
