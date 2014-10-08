@@ -21,6 +21,7 @@
 		BF87AE2819E557310000B908 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF87AE0A19E557300000B908 /* UIKit.framework */; };
 		BF87AE3019E557310000B908 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF87AE2E19E557310000B908 /* InfoPlist.strings */; };
 		BF87AE3219E557310000B908 /* GitUseExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BF87AE3119E557310000B908 /* GitUseExampleTests.m */; };
+		BF87AE3D19E5749F0000B908 /* Test20141008ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF87AE3C19E5749F0000B908 /* Test20141008ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		BF87AE2D19E557310000B908 /* GitUseExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitUseExampleTests-Info.plist"; sourceTree = "<group>"; };
 		BF87AE2F19E557310000B908 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BF87AE3119E557310000B908 /* GitUseExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUseExampleTests.m; sourceTree = "<group>"; };
+		BF87AE3B19E5749F0000B908 /* Test20141008ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test20141008ViewController.h; sourceTree = "<group>"; };
+		BF87AE3C19E5749F0000B908 /* Test20141008ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test20141008ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				BF87AE1C19E557300000B908 /* ViewController.m */,
 				BF87AE1E19E557300000B908 /* Images.xcassets */,
 				BF87AE0D19E557300000B908 /* Supporting Files */,
+				BF87AE3B19E5749F0000B908 /* Test20141008ViewController.h */,
+				BF87AE3C19E5749F0000B908 /* Test20141008ViewController.m */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -251,6 +256,7 @@
 			files = (
 				BF87AE1D19E557300000B908 /* ViewController.m in Sources */,
 				BF87AE1719E557300000B908 /* AppDelegate.m in Sources */,
+				BF87AE3D19E5749F0000B908 /* Test20141008ViewController.m in Sources */,
 				BF87AE1319E557300000B908 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
